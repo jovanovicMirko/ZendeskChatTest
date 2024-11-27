@@ -1,2 +1,2 @@
 # ZendeskChatTest
-Basic app to test Zendask Chat
+Basic app to test Zendesk Chat
